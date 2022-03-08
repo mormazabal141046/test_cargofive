@@ -1,7 +1,22 @@
 # test_cargofive
-
 ## Project setup
 ```
+Esta aplicación ha sido desarrollada por Mauricio Ormazábal con fines de participar en el proceso de reclutamiento
+para CargoFive.
+
+Tecnologías utilizadas:
+- Vue JS V2
+- Vuex
+- Vuetify
+- Axios
+- Leaflet
+
+-Repositorio
+- Github
+
+Desplegado en:
+- Heroku
+
 npm install
 ```
 
